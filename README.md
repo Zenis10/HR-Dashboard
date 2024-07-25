@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/zenis.upadhyay/viz/HRDashboard_17151546803230/HRanalyticsdashboard?publish=yes
+This repository contains a comprehensive HR Dashboard created using Tableau to visualize and analyze employee attrition rates and other critical human resource metrics. The dashboard integrates various data sources to provide HR professionals with actionable insights, helping organizations make informed decisions to enhance employee retention and overall workforce management.
